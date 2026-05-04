@@ -1,0 +1,20 @@
+﻿  ComplexPlane.cpp
+C:\Users\Peter\source\repos\Mandelbrot\ComplexPlane.cpp(6,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Peter\source\repos\Mandelbrot\ComplexPlane.cpp(6,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Peter\source\repos\Mandelbrot\ComplexPlane.cpp(33,28): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Peter\source\repos\Mandelbrot\ComplexPlane.cpp(34,82): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Peter\source\repos\Mandelbrot\ComplexPlane.cpp(34,128): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Peter\source\repos\Mandelbrot\ComplexPlane.cpp(40,28): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Peter\source\repos\Mandelbrot\ComplexPlane.cpp(49,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peter\source\repos\Mandelbrot\ComplexPlane.cpp(50,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peter\source\repos\Mandelbrot\ComplexPlane.cpp(57,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Peter\source\repos\Mandelbrot\ComplexPlane.cpp(58,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Mandelbrot.vcxproj -> C:\Users\Peter\source\repos\Mandelbrot\x64\Debug\Mandelbrot.exe
